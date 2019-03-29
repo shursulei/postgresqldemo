@@ -1,2 +1,7 @@
-# postgresqldemo
-postgresql的学习手册和文档
+# **postgresql的demo**
+
+#### 基础介绍
+
+#### 环境搭建
+
+#### 案例测试
